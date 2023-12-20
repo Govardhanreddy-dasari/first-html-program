@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>cric stats</title>
+</head>
+<body>
+<h1 style=colour:green;background-colour:white;>cricket player stats</h1>
+<p>this website contain details about the players.<br>this website is very helpful to know about the player very easily</p>
+<h2 style=colour:green;background-colour:white;>stats about batsman</h2>
+<p>this phase of the website contains details about the batsman<br>How many <q>sixes</q> he hit in the last innings(or)in his career.<br>how many <q>hundreds</q> he scored in his career<br>this phase shows clear about the recent form of the batsman based on previous matches etc..</p>
+<h3 style=colour:green;background-colour:white;>stats about bowlers</h3>
+<p>this phase of the website contains details about the players<br>how many wickets took this bowler in his career (or) recent leauge<br>how many five haul he has in career<br>recent form about particular bowler based on the recent performance etc..
+<table>
+<thead>
+<tr>
+<th>name of the player hundreds fifties sixes fours</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>dhoni 16 72 359 700</td>
+</tr>
+<tr>
+<td>kohli 50 80 250 900</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
